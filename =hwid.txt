@@ -1,2 +1,3 @@
 login=yes
 hwid=test
+hwid=JynObeBE0CLmt10Ra22VEOVAwVY=
