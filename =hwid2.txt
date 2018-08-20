@@ -1,2 +1,4 @@
 login=yes
-hwid=
+hwid=test
+hwid=5HK9ES3rWwJrgjvfallKY5np/4U=
+hwid=Njekbbb2xacwyzhSDa3nu2gvAyE=
